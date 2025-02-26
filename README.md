@@ -5,6 +5,7 @@ Welcome to my **Computational Physics** repository! This repository contains my 
 ## 📊 Contents
 
 The repository is organized as follows: 
+
 ├── assignments/          # Course assignments and solutions
 ├── extras/               # Additional experiments, notes, and visualizations
 └── README.md             # Repository documentation

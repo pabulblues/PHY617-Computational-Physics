@@ -4,7 +4,7 @@ Welcome to my **Computational Physics** repository! This repository contains my 
 
 ## 📊 Contents
 
-The repository is organized as follows:
+The repository is organized as follows: 
 ├── assignments/          # Course assignments and solutions
 ├── extras/               # Additional experiments, notes, and visualizations
 └── README.md             # Repository documentation
@@ -12,7 +12,6 @@ The repository is organized as follows:
 ### Key Sections:
 
 - **Assignments:** Solutions to computational problems using numerical techniques.
-- **Projects:** Independent or collaborative projects exploring advanced concepts.
 - **Extras:** Additional material, including code snippets, visualizations, and notes.
 
 ## 🧰 Tools & Libraries
@@ -31,8 +30,8 @@ Ensure you have these installed before running the code.
 1. Clone the repository:
 
    ```bash
-   git clone 
-   cd computational-physics
+   git clone https://github.com/pabulblues/PHY617-Computational-Physics.git
+   cd PHY617-Computational-Physics
 
 
 

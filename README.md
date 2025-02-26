@@ -1,12 +1,11 @@
 # Computational Physics Repository
 
-Welcome to my **Computational Physics** repository! This repository contains my assignments, projects, and additional explorations related to the **Computational Physics** course.
+Welcome to my **Computational Physics** repository! This repository contains my assignments and additional explorations related to the **Computational Physics** course.
 
 ## 📊 Contents
 
 The repository is organized as follows:
 ├── assignments/          # Course assignments and solutions
-├── projects/             # Extended projects beyond coursework
 ├── extras/               # Additional experiments, notes, and visualizations
 └── README.md             # Repository documentation
 
